@@ -14,7 +14,8 @@
             "id": "eta",
             "aliases": ["Eta", "eta"],
             "extensions": [".eta"],
-            "configuration": "./language-configuration.json"
+            "configuration": "./language-configuration.json",
+            "icon": "./icons/eta.svg"
         }],
         "grammars": [{
             "language": "eta",
